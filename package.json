@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "^C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwm0304/portfolio-generator.git"
+  },
+  "keywords": [
+    "issues"
+  ],
+  "author": "lernantino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwm0304/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/kwm0304/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
